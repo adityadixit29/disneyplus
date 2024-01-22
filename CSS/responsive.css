@@ -1,0 +1,14 @@
+@media screen and (max-width:816px){
+.nav-items a{
+    display: none;
+    }
+}
+@media screen and (max-width:637px){
+.login-link{
+    display: none;
+    }
+    .btn{
+        display: none;
+    }
+}
+
